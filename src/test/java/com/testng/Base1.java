@@ -49,7 +49,8 @@ public class Base1 {
 		driver.manage().window().maximize();
 	}
 
-	public static void maximize1() {
+	
+	public static void maximize2() {
 		driver.manage().window().maximize();
 	}
 
